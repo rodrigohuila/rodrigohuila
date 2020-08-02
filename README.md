@@ -7,6 +7,11 @@
 
 - ⚡ Fun fact **Cofee is a fruit**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p><p align="center">
-<a href="https://twitter.com/rodrigohuila" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rodrigohuila" height="20" width="20" /></a>
+
+**Languages and Tools:**  
+<p> <code><img align="left" height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+    <code><img align="left" height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  
+  
+<a href="https://twitter.com/rodrigohuila" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"        alt="rodrigohuila" height="28" width="28" /></a>
 </p>
